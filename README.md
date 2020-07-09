@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning golang
+- Blog : [XN17 blog](https://xn17.github.io/)
+
 
 <!--
 **XN17/XN17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
