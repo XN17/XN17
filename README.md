@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning golang
 - Blog : [XN17 blog](https://xn17.github.io/blog/)
 - 🌱 I’m currently learning golang
 - 😄 Pronouns: he/him
