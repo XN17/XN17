@@ -1,6 +1,15 @@
 ### Hi there 👋
 - 🌱 I’m currently learning golang
 - Blog : [XN17 blog](https://xn17.github.io/)
+- 🌱 I’m currently learning golang
+- 😄 Pronouns: he/him
+- 📫 How to reach me: 
+  * fosstodon : https://fosstodon.org/@xn17
+  * matrix    : @xn17:matrix.org
+  * xmpp      : @xn17@jabber.calyxinstitute.org
+
+  
+
 
 
 <!--
@@ -9,11 +18,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
 - ⚡ Fun fact: ...
 -->
